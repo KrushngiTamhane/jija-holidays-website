@@ -21,3 +21,10 @@ A business website developed and managed using  WordPress and Hostinger for a to
 
   # Live Website
   https://jijaholidays.in/
+
+  # Screenshots
+  - ![Home](screenshots/home.png)
+  - ![Home](screenshots/home1.png)
+  - ![Packages](screenshots/packages.png)
+  - ![Photos](screenshots/photos.png)
+  - ![Contact Us](screenshots/contact_us.png)
